@@ -10,11 +10,12 @@ I wanted to solidify my knowledge of HTML & CSS by delving deeper into animation
 
 This course also demonstrated the work flow of turning a design file, in this case a Figma design, into HTML and CSS.
 
+You can view this project live [here](https://lukewarddev.github.io/Responsive-Design-Course/)
+
 ## Things I learned along the way
 
-semantic html
-accessability
-mobile first design
-converting design file to html and css
-em vs px
-Sass
+1. Semantic HTML - I learned to use th correct semantic html tags to layout the content of the page.
+2. Accessability - 
+3. Mobile first design
+4. Converting design file to html and css
+5. Sass
