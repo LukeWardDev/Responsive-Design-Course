@@ -222,6 +222,11 @@ section.hero .down-arrow path {
   }
 }
 
+.open-nav {
+  -webkit-transform: translateX(0%);
+          transform: translateX(0%);
+}
+
 @media only screen and (min-width: 1200px) {
   .wrapper {
     width: 1200px;
