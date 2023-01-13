@@ -14,3 +14,5 @@ semantic html
 accessability
 mobile first design
 converting design file to html and css
+em vs px
+Sass
