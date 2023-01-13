@@ -8,4 +8,4 @@ I wanted to solidify my knowledge of HTML & CSS by delving deeper into animation
 
 This course also demonstrated the work flow of turning a design file, in this case a Figma design, into HTML and CSS.
 
-##Things I learned along the way
+## Things I learned along the way
