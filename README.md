@@ -14,8 +14,10 @@ You can view this project live [here](https://lukewarddev.github.io/Responsive-D
 
 ## Things I learned along the way
 
-1. Semantic HTML - I learned to use th correct semantic html tags to layout the content of the page.
-2. Accessability - 
-3. Mobile first design
-4. Converting design file to html and css
-5. Sass
+1. Semantic HTML - I learned to use the correct semantic html tags to layout the content of the page.
+2. Accessability - I learned to make sure to use things such as "alt" on images to make sure users with screen readers can navigate the website properly and gain better understanding of the content.
+3. Mobile first design - I learned how using mobile first design can help reduce code as alot of styles will carry through to large displays and it is more of a case of overriding styles which have already been set.
+4. Converting design file to html and css - I learned how to think in rectangles an columns to help convert from a design file to html and css.
+5. Sass - I learned to leverage SASS to make my styling code easier to read and to help reduce lines of code when writing.
+6. Animations - I learned how implement animations into CSS to apply a nice fade in to the hero section of the website.
+7. Responsive nav - I learned how to leverage javascript to add functionailty to the responsive navigation.
