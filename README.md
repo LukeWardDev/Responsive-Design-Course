@@ -1,5 +1,7 @@
 # Responsive Design Course
 
+![Screenshot of website](https://user-images.githubusercontent.com/122611045/212340091-129a7e1e-6c9b-4e18-9bd7-e0ab4e8fecb5.png?raw=true)
+
 This project was completed using the design course [here](https://www.youtube.com/watch?v=gXLjWRteuWI&t=1057s).
 
 I already had a basic knowledge of HTML & CSS from following the courses by [The Net Ninja](https://netninja.dev/).
